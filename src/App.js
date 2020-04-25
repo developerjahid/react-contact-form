@@ -8,7 +8,7 @@ class App extends React.Component {
   render() {
     return (
       <div className="App">
-        <Navbar logo="DEVELOPERJAHID.COM" />
+        <Navbar logo="React Contact Form with Php by @developerjahid." />
         <SimpleForm />
       </div>
     );
